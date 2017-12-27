@@ -16,4 +16,3 @@ def solution(number):
     return total
 
 
-print (solution(10))
